@@ -64,14 +64,3 @@ class PostgresManager:
             return False
         except:
             return False
-            
-
-    
-
-    
-
-    
-
-    
-
-    
