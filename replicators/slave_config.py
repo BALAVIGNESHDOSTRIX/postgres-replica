@@ -175,15 +175,3 @@ class SlaveConfiger:
             rep_pass = mas_rep_pass, h=mas_host, v=postgres_v, rep_user=mas_repUser
         )
         return pg_Q_
-        
-
-
-
-
-
-
-
-
-        
-
-
