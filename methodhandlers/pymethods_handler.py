@@ -46,8 +46,3 @@ class MethodsProvider:
             temp.append(self.regrex.Remove_r_n(item))
         if temp:
             return True,temp 
-
-    
-
-
-
