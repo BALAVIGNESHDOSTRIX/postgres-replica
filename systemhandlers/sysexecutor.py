@@ -67,7 +67,3 @@ class SysCommandor():
             return False, self.conObj.ReturnPassErr
         except paramiko.ssh_exception.SSHException:
             return False, self.conObj.ReturnSSHErr
-
-
-    
-        
