@@ -11,5 +11,3 @@ class LogMaintainer:
 
     def FormalMessageCatcher(self, mess, dots,sysmess=None):
         print(mess, dots, sysmess)
-        
-        
