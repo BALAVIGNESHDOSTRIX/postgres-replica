@@ -208,16 +208,3 @@ class MasterConfigMaster:
     def PGHBA_Entry_Checker(self, pattern, pg_hba_dir):
         checker_query = "sudo grep -q {x} {y} && echo $?".format(x=pattern, y=pg_hba_dir)
         return checker_query
-
-    
-
-
-
-    
-
-
-
-
-
-
-
