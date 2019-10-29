@@ -56,12 +56,3 @@ class SysInfoManager:
             if item == 0 or '0':
                 return True 
         return False
-        
-
-        
-        
-
-
-        
-
-            
