@@ -36,6 +36,3 @@ class SystemParameters:
     @classmethod
     def getOS_RELEASE_Q(self):
         return self._sysinfos[7]
-
-
-
