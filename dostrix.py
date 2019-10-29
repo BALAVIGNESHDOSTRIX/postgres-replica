@@ -15,5 +15,3 @@ if __name__ == "__main__":
         svsync.SlaveIntializer()
     else:
         print("Please Try again...")
-
-
