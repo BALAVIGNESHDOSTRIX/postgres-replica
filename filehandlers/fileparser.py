@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-
 import os 
-
 
 class FileHandler:
 
@@ -18,6 +16,3 @@ class FileHandler:
             temp.append(line.rstrip('\n'))
         if temp:
             return temp
-
-
-
